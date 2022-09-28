@@ -14,9 +14,8 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # REPOSITORY: fgeckeler/fgeckeler # optional, By default, it will automatically use the repository who's executing the workflow.
           COMMIT_MESSAGE: "Update Badges" # optional
           CREDLY_USER: florian-geckeler # optional, but default will use the same from github
           CREDLY_SORT: RECENT or POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
-          BADGE_SIZE: 40 # optional, 110x110 default
+          BADGE_SIZE: 60 # optional, 110x110 default
           NUMBER_LAST_BADGES: the maximum last badges to show # optional, will show the 48 in the first page
