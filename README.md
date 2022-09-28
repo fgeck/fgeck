@@ -30,7 +30,7 @@ During my professional journey I worked on the open source projects [SAP S4 Clou
 </p>
 
 
-## Certificates
+### Certificates
 
 <!--START_SECTION:badges-->
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/60x60/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/43d70d42-6522-4f51-a6a4-436e0acc9f03 "CKA: Certified Kubernetes Administrator")
