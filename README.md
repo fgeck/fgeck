@@ -33,6 +33,8 @@ During my professional journey I worked on the open source projects [SAP S4 Clou
 ## Certificates
 
 <!--START_SECTION:badges-->
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/40x40/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/43d70d42-6522-4f51-a6a4-436e0acc9f03 "CKA: Certified Kubernetes Administrator")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/40x40/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/0e1ee1df-c14e-4a13-ba79-f6e0d60b60db "CKAD: Certified Kubernetes Application Developer")
 <!--END_SECTION:badges-->
 
 ### Socials
