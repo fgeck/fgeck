@@ -1,7 +1,7 @@
 Hi 👋 My name is Florian Geckeler
 =================================
 
-DevOps Engineer at SAP
+Senior Cloud Developer at SAP
 ----------------------------------
 
 During my professional journey I worked on the open source projects [SAP S4 Cloud SDK Pipeline](https://github.com/SAP/cloud-s4-sdk-pipeline) and [SAP S4 Cloud SDK Pipeline Lib](https://github.com/SAP/cloud-s4-sdk-pipeline-lib) which are now merged into [Project Piper](https://github.com/SAP/jenkins-library). Since 2 years I am working on Golang based Kubernetes Microservices and Kubernetes Operators as well as a Python based tool for Gardener Kubernetes Cluster lifecycle management.
@@ -30,7 +30,7 @@ During my professional journey I worked on the open source projects [SAP S4 Clou
 </p>
 
 
-### Certificates
+### Certifications
 
 <!--START_SECTION:badges-->
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/60x60/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/43d70d42-6522-4f51-a6a4-436e0acc9f03 "CKA: Certified Kubernetes Administrator")
