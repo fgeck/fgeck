@@ -1,21 +1,20 @@
 Hi 👋 My name is Florian Geckeler
 =================================
 
-Senior Cloud Developer at SAP
+Senior Beckend Engineer at SAP Signavio
 ----------------------------------
 
-During my professional journey I worked on the open source projects [SAP S4 Cloud SDK Pipeline](https://github.com/SAP/cloud-s4-sdk-pipeline) and [SAP S4 Cloud SDK Pipeline Lib](https://github.com/SAP/cloud-s4-sdk-pipeline-lib) which are now merged into [Project Piper](https://github.com/SAP/jenkins-library). Since 2 years I am working on Golang based Kubernetes Microservices and Kubernetes Operators as well as a Python based tool for Gardener Kubernetes Cluster lifecycle management.
+During my professional journey I worked on the open source projects [SAP S4 Cloud SDK Pipeline](https://github.com/SAP/cloud-s4-sdk-pipeline) and [SAP S4 Cloud SDK Pipeline Lib](https://github.com/SAP/cloud-s4-sdk-pipeline-lib) which are now merged into [Project Piper](https://github.com/SAP/jenkins-library). For over 2 years I was working on Golang based Kubernetes Microservices and Kubernetes Operators as well as a Python based tool for Gardener Kubernetes Cluster lifecycle management. Currently I am working at SAP Signavio in the Process Intelligence department building Spring based Kotlin Microservices that bring Process Intelligences data extraction capabilities to life.
 
 * 🌍  I'm based in Neustadt an der Weinstrasse, Germany
-* ✉️  You can contact me at [f.geckeler@gmail.com](mailto:f.geckeler@gmail.com)
-* 🌱 I’m currently learning **Kotlin with Spring**
+* ✉️  You can contact me at [linkedin](https://www.linkedin.com/in/floriangeckeler)
 * 🌱 I want to learn **TypeScript and ReactJs or VueJs**
-* 🤝  I'm open to collaborating on Golang Projects
 
 ### Skills
 
 
 <p align="left">
+<a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
