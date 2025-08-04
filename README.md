@@ -39,3 +39,10 @@ During my professional journey I worked on the open source projects [SAP S4 Clou
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/fgeck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/floriangeckeler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+###  📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fgeck&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fgeck&theme=dracula&hide_border=true" height="165" />
+</p>
